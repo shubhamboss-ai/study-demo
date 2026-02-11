@@ -1,3 +1,3 @@
 # study-demo
 This is my fitst Git Respository.<br>
-Author - Shubham Kumar
+Author - Shubham Kumar (Me)
